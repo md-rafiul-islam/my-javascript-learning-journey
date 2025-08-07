@@ -4,8 +4,13 @@
 //     name: "Rafiul",  // here name is property of its object
 //     id: "011221086",
 //     Age: 24,
-//     language: ["Bangla", "English", "Hindi"]
+//     language: ["Bangla", "English", "Hindi"],
+
+        // display: function(){                 // object method. function ke method bole java or JS e
+        //     console.log('abc def ghi jkl');
+        // }
 // }
+// userInfo.display();
 // console.log(userInfo.name);
 // console.log(userInfo.language[0]);
 // // for multiple user need multiple like this. Instead Use constructor
