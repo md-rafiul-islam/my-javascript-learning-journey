@@ -6,7 +6,7 @@
 //     Age: 24,
 //     language: ["Bangla", "English", "Hindi"],
 
-        // display: function(){                 // object method. function ke method bole java or JS e
+        // display: function display(){                 // object method. function ke method bole java or JS e
         //     console.log('abc def ghi jkl');
         // }
 // }
